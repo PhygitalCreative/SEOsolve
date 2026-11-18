@@ -1,0 +1,6 @@
+{
+  "name": "SEOsolve",
+  "description": "Digital Marketing Audit Tool for live on-page SEO, technical SEO checklists, content strategy, keyword research, and AI-search (GEO) readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
